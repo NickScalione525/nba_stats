@@ -8,7 +8,8 @@ class Cli
 
 
     def prompt_for_selection
-
+        puts "Please enter a player's name"
+    end
 
 
 
